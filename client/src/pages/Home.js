@@ -26,6 +26,7 @@ function Home() {
                                     <div className="card-body">
                                         <p>{video.name}</p>
                                         <p>{video.duration}</p>
+                                        
                                     </div>
                                 </div>
                             </Link>
